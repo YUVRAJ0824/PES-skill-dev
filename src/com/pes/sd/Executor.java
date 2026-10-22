@@ -18,6 +18,7 @@ public class Executor {
         e=new Employee();
         e.display();
         System.out.print(e);
+        //so
         System.out.print(e1);
 // hashcode=new id give to the code
         public Employee(int id,String name,float salary)
